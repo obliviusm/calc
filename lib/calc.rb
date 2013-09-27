@@ -17,6 +17,7 @@ class Calc
 	end
 end
 
+=begin
 p Calc.new(1,2,"sdfg")
 p Calc.new(1,2,3)
-p Calc.new.plus
+p Calc.new.plus=end
