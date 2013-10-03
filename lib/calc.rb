@@ -15,4 +15,8 @@ class Calc
 	def clear
 		@arr = []															
 	end
+
+	def arr
+		@arr
+	end
 end
